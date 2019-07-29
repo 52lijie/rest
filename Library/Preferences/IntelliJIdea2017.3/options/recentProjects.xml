@@ -1,0 +1,1390 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/project/rest" />
+        <option value="$USER_HOME$/Desktop/project/spring04" />
+        <option value="$USER_HOME$/Desktop/project/spring03-bank" />
+        <option value="$USER_HOME$/Desktop/project/heima_ssm" />
+        <option value="$USER_HOME$/Desktop/project/boys" />
+        <option value="$USER_HOME$/Desktop/project/springmvc" />
+        <option value="$USER_HOME$/Desktop/project/springbean" />
+        <option value="$USER_HOME$/Desktop/project/springdi" />
+        <option value="$USER_HOME$/Desktop/project/springboot" />
+        <option value="$USER_HOME$/Desktop/project/Test" />
+        <option value="$USER_HOME$/Desktop/damo2019" />
+        <option value="$USER_HOME$/Desktop/project/maven_01" />
+        <option value="$USER_HOME$/Desktop/project/maven_parent" />
+        <option value="$USER_HOME$/Desktop/project/spring-02" />
+        <option value="$USER_HOME$/Desktop/project/day01-01" />
+        <option value="$USER_HOME$/Desktop/project/dayday" />
+        <option value="$USER_HOME$/Desktop/project/bmi" />
+        <option value="$USER_HOME$/Desktop/project/day77" />
+        <option value="$USER_HOME$/Desktop/project/day14" />
+        <option value="$USER_HOME$/Desktop/project/sdjkn" />
+        <option value="$USER_HOME$/Desktop/aa/bb" />
+        <option value="$USER_HOME$/Liu/dharma2018" />
+        <option value="$USER_HOME$/untitled1" />
+        <option value="$USER_HOME$/Desktop/BirdGrame" />
+        <option value="$USER_HOME$/Documents/liuzhe/springclouds" />
+        <option value="$USER_HOME$/Desktop/dharma-service" />
+        <option value="$USER_HOME$/Documents/liuzhe/springcloud" />
+        <option value="$USER_HOME$/Desktop/product-service" />
+        <option value="$USER_HOME$/Documents/liuzhe/springcloud01" />
+        <option value="$USER_HOME$/Documents/liuzhe/springdemo" />
+        <option value="$USER_HOME$/Documents/liuzhe/demo03" />
+        <option value="$USER_HOME$/Documents/liuzhe/demo04" />
+        <option value="$USER_HOME$/Documents/liuzhe" />
+        <option value="$USER_HOME$/Documents/liuzhe/intern" />
+        <option value="$USER_HOME$/Documents/yourdad" />
+        <option value="$USER_HOME$/Desktop/spring-mvc-crud-rest" />
+        <option value="$USER_HOME$/Documents/liuzhe/demo" />
+        <option value="$USER_HOME$/Desktop/8-商城源码" />
+        <option value="$USER_HOME$/againmaven" />
+        <option value="$USER_HOME$/Desktop/8-商城源码/wemall20170815/wemall" />
+        <option value="$USER_HOME$/Desktop/8-商城源码 2" />
+        <option value="$USER_HOME$/Desktop/8-商城源码 2/wemall20170815/wemall" />
+        <option value="$USER_HOME$/Documents/yourfather" />
+        <option value="$USER_HOME$/Documents/FirstMaven" />
+        <option value="$USER_HOME$/untitled4" />
+        <option value="$USER_HOME$/Documents/untitled1" />
+        <option value="$USER_HOME$/servlet" />
+        <option value="$USER_HOME$/Desktop/jquery1.8.3_api" />
+        <option value="$USER_HOME$/Documents" />
+        <option value="$USER_HOME$/Desktop/21-NETCTOSS" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/project/rest" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Desktop/project/rest" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542286405918" />
+              <option name="buildTimestamp" value="1520275864558" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/123">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539602401755" />
+              <option name="buildTimestamp" value="1520275866723" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/623/dharma-spring-security">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529738685311" />
+              <option name="buildTimestamp" value="1520275869926" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/623/dharma-spring-security/dharma-spring-security">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539739001267" />
+              <option name="buildTimestamp" value="1520275906467" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/710">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530435714109" />
+              <option name="buildTimestamp" value="1520275902994" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/BEE">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541588567466" />
+              <option name="buildTimestamp" value="1520275894289" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/DarmoBean/dharma-spring-bean">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526478355491" />
+              <option name="buildTimestamp" value="1520275869565" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/21-NETCTOSS">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548153151073" />
+              <option name="buildTimestamp" value="1520275875382" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/8-商城源码">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553938852571" />
+              <option name="buildTimestamp" value="1520275872278" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/8-商城源码 2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548408830109" />
+              <option name="buildTimestamp" value="1520275912446" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/8-商城源码 2/wemall20170815/wemall">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548408829300" />
+              <option name="buildTimestamp" value="1520275912446" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/8-商城源码/wemall20170815/wemall">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548429027533" />
+              <option name="buildTimestamp" value="1520275912446" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/BirdGrame">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558751140528" />
+              <option name="buildTimestamp" value="1520275861428" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/CRM">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544006160132" />
+              <option name="buildTimestamp" value="1520275906252" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/aa/bb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560944851094" />
+              <option name="buildTimestamp" value="1520275865967" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/aa/demolj">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561168983758" />
+              <option name="buildTimestamp" value="1520275880330" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/aa/dsf">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561171569034" />
+              <option name="buildTimestamp" value="1520275880330" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/aa/jie">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561170704835" />
+              <option name="buildTimestamp" value="1520275880330" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/aa/lije">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561170524959" />
+              <option name="buildTimestamp" value="1520275880330" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/aa/lkj">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561171357037" />
+              <option name="buildTimestamp" value="1520275880330" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/aa/s">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561170876108" />
+              <option name="buildTimestamp" value="1520275880330" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/aa/sdjkn">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561174011621" />
+              <option name="buildTimestamp" value="1520275880330" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/commonparent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560827291941" />
+              <option name="buildTimestamp" value="1520275865967" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/damo2019">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563966784698" />
+              <option name="buildTimestamp" value="1520275885156" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/dharma-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556114708216" />
+              <option name="buildTimestamp" value="1520275898991" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/jquery1.8.3_api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548235497011" />
+              <option name="buildTimestamp" value="1520275862244" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/product-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556114696993" />
+              <option name="buildTimestamp" value="1520275898991" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/Test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564209131926" />
+              <option name="buildTimestamp" value="1520275887721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/bmi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563006600343" />
+              <option name="buildTimestamp" value="1520275860056" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/boys">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564295143837" />
+              <option name="buildTimestamp" value="1520275887721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/cloud-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564146354002" />
+              <option name="buildTimestamp" value="1520275887721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/com.xy.lj">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561817604248" />
+              <option name="buildTimestamp" value="1520275860056" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/day01-01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563442777239" />
+              <option name="buildTimestamp" value="1520275882954" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/day03">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563306681362" />
+              <option name="buildTimestamp" value="1520275882954" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/day14">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562241078252" />
+              <option name="buildTimestamp" value="1520275860056" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/day77">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562990135778" />
+              <option name="buildTimestamp" value="1520275860056" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/dayday">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563367884803" />
+              <option name="buildTimestamp" value="1520275882954" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/first-jsp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562990908742" />
+              <option name="buildTimestamp" value="1520275860056" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/heima_ssm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564295392347" />
+              <option name="buildTimestamp" value="1520275887721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/lije">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562981498444" />
+              <option name="buildTimestamp" value="1520275860056" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/maven_01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563868760213" />
+              <option name="buildTimestamp" value="1520275885156" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/maven_parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563868756495" />
+              <option name="buildTimestamp" value="1520275885156" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/rest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564396965860" />
+              <option name="buildTimestamp" value="1520275887721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/sdjkn">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561175682550" />
+              <option name="buildTimestamp" value="1520275880330" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/spring-02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563506319727" />
+              <option name="buildTimestamp" value="1520275882954" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/spring03-bank">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564295415288" />
+              <option name="buildTimestamp" value="1520275887721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/spring04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564295436028" />
+              <option name="buildTimestamp" value="1520275887721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/springbean">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564283037177" />
+              <option name="buildTimestamp" value="1520275887721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/springboot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564209122316" />
+              <option name="buildTimestamp" value="1520275887721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/springdi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564212461765" />
+              <option name="buildTimestamp" value="1520275887721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/springmvc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564295140579" />
+              <option name="buildTimestamp" value="1520275887721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563966760808" />
+              <option name="buildTimestamp" value="1520275885156" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/spring-mvc-crud-rest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553938865868" />
+              <option name="buildTimestamp" value="1520275872278" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/完整运行版java小程序商城源码">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1537616022763" />
+              <option name="buildTimestamp" value="1520275878028" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/未命名文件夹 2/CRM/CRM">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548041998466" />
+              <option name="buildTimestamp" value="1520275894379" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/项目/8-商城源码/wemall20170815/sdfghj">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529212268196" />
+              <option name="buildTimestamp" value="1520275916968" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/项目/8-商城源码/wemall20170815/wemall">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530424925938" />
+              <option name="buildTimestamp" value="1520275902994" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548169447402" />
+              <option name="buildTimestamp" value="1520275862244" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/FirstMaven">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548243500591" />
+              <option name="buildTimestamp" value="1520275912446" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/liuzhe">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1555506659655" />
+              <option name="buildTimestamp" value="1520275898991" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/liuzhe/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553936306024" />
+              <option name="buildTimestamp" value="1520275872278" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/liuzhe/demo01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554813067564" />
+              <option name="buildTimestamp" value="1520275907902" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/liuzhe/demo02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554811455782" />
+              <option name="buildTimestamp" value="1520275907902" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/liuzhe/demo03">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556106117418" />
+              <option name="buildTimestamp" value="1520275898991" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/liuzhe/demo04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556106109981" />
+              <option name="buildTimestamp" value="1520275898991" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/liuzhe/intern">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554905928072" />
+              <option name="buildTimestamp" value="1520275915161" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/liuzhe/springcloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556114559912" />
+              <option name="buildTimestamp" value="1520275898991" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/liuzhe/springcloud01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556109414904" />
+              <option name="buildTimestamp" value="1520275898991" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/liuzhe/springclouds">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557406001279" />
+              <option name="buildTimestamp" value="1520275898310" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/liuzhe/springdemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556107055698" />
+              <option name="buildTimestamp" value="1520275898991" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/lzz">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542885855156" />
+              <option name="buildTimestamp" value="1520275911427" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1547724817557" />
+              <option name="buildTimestamp" value="1520275888303" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/untitled1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548242694019" />
+              <option name="buildTimestamp" value="1520275912446" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/yourdad">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553938870155" />
+              <option name="buildTimestamp" value="1520275872278" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/yourfather">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548247729260" />
+              <option name="buildTimestamp" value="1520275912446" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1547866932797" />
+              <option name="buildTimestamp" value="1520275888303" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GitJsp/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525510917940" />
+              <option name="buildTimestamp" value="1520275868811" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GitJsp/dharma-maven-jsp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525571619700" />
+              <option name="buildTimestamp" value="1520275885916" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GitJsp/main">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525594398079" />
+              <option name="buildTimestamp" value="1520275885916" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GitJsp/one">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526113392818" />
+              <option name="buildTimestamp" value="1520275890401" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GitJsp/s">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525510405806" />
+              <option name="buildTimestamp" value="1520275862192" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Liu/dharma2018">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560775579775" />
+              <option name="buildTimestamp" value="1520275900821" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Liu/main">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526105246475" />
+              <option name="buildTimestamp" value="1520275890401" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Liu/themain">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526115357494" />
+              <option name="buildTimestamp" value="1520275890401" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/SpringTanhuang/dharma-spring/Demmmmo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526480444973" />
+              <option name="buildTimestamp" value="1520275869565" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/SpringTanhuang/dharma-spring/dharma-spring-bean-life-cycle">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526469666627" />
+              <option name="buildTimestamp" value="1520275869565" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/SpringTanhuang/dharma-spring/dharma-spring-beans">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526175119172" />
+              <option name="buildTimestamp" value="1520275917042" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/SpringTanhuang/dharma-spring/thetwo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526198869307" />
+              <option name="buildTimestamp" value="1520275917042" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/SpringTanhuang/dharma-spring/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526479758113" />
+              <option name="buildTimestamp" value="1520275869565" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/SpringTanhuang/dharma-spring/untitled1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526480442350" />
+              <option name="buildTimestamp" value="1520275869565" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/againmaven">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553937524802" />
+              <option name="buildTimestamp" value="1520275872278" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/apigi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530435716842" />
+              <option name="buildTimestamp" value="1520275902994" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542195307676" />
+              <option name="buildTimestamp" value="1520275883831" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/five27/dharma-spring-data/dharma-spring-data-jpa-hibernate-app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527765009991" />
+              <option name="buildTimestamp" value="1520275912246" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/five27/dharma-spring-data/mail">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527930684367" />
+              <option name="buildTimestamp" value="1520275895053" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/five27/dharma-spring-data/spring-JDBC-template">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527602299253" />
+              <option name="buildTimestamp" value="1520275892756" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/fiveNintee/dharma-spring-mvc/postgre">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527171103891" />
+              <option name="buildTimestamp" value="1520275872363" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/fiveNintee/dharma-spring-mvc/spring-mvc-crud-rest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526716113914" />
+              <option name="buildTimestamp" value="1520275872363" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/fiveNintee/dharma-spring-mvc/spring-mvc-crud-rest-cors">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526721595245" />
+              <option name="buildTimestamp" value="1520275872363" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/fiveNintee/dharma-spring-mvc/spring-mvc-rest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526715016500" />
+              <option name="buildTimestamp" value="1520275872363" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/lzz">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1537779866613" />
+              <option name="buildTimestamp" value="1520275868359" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/memechamemecha/dharma-spring-boot/Safe">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529736838365" />
+              <option name="buildTimestamp" value="1520275869926" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/memechamemecha/dharma-spring-boot/_123">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538530957634" />
+              <option name="buildTimestamp" value="1520275918996" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/memechamemecha/dharma-spring-boot/dharma-spring-boot-full">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529738263247" />
+              <option name="buildTimestamp" value="1520275869926" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/mongodb/Day04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529224221629" />
+              <option name="buildTimestamp" value="1520275916968" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/servlet">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548241285645" />
+              <option name="buildTimestamp" value="1520275912446" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542286123436" />
+              <option name="buildTimestamp" value="1520275916831" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/trydemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525510409572" />
+              <option name="buildTimestamp" value="1520275862192" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532827056551" />
+              <option name="buildTimestamp" value="1520275872136" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/untitled1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560775567811" />
+              <option name="buildTimestamp" value="1520275900821" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/untitled2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539343563299" />
+              <option name="buildTimestamp" value="1520275902377" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/untitled3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541589591470" />
+              <option name="buildTimestamp" value="1520275883831" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/untitled4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548242715460" />
+              <option name="buildTimestamp" value="1520275912446" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/workspaces/java/TestHelloWord">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524061227162" />
+              <option name="buildTimestamp" value="1520275865690" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/yzj">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542286356699" />
+              <option name="buildTimestamp" value="1520275916831" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/yzj/mygit">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542797952393" />
+              <option name="buildTimestamp" value="1520275864558" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/yzj/myproduct">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542796876478" />
+              <option name="buildTimestamp" value="1520275864558" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/zhangqi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541590532098" />
+              <option name="buildTimestamp" value="1520275883831" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/Volumes/Elements/code/code_cangku_web/Day04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529214336571" />
+              <option name="buildTimestamp" value="1520275916968" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/private/var/folders/b0/p57mglvs6g70wwsys92rlst80000gn/T/a.c">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542281958152" />
+              <option name="buildTimestamp" value="1520275916831" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/project" />
+  </component>
+</application>

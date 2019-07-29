@@ -1,0 +1,52 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="evlsprt3.163" value="17" />
+    <property name="installed.kotlin.plugin.version" value="1.2.10-release-IJ2017.3-1" />
+    <property name="android-component-compatibility-check" value="1564035751327" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="1" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="evlsprt3.173" value="19" />
+    <property name="file.gist.reindex.count" value="10716" />
+    <property name="ts.lib.d.ts.version" value="2.6.2" />
+    <property name="last.imported.location" value="$USER_HOME$/Desktop/project/heima_ssm" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="JUnitSupport.hidePassedTests" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 9.0.8" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="MavenModuleWizard.inheritGroupId" value="false" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="kotlin.lastUpdateCheck" value="1553933101193" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="SearchEveryWhereHistory" value="setting&#10;{" />
+    <property name="PLUGIN_FILTER" value="Lom&#10;Background Image Plus&#10;BashSupport&#10;shifter&#10;activate-power-mode" />
+    <property name="IJ_BASE_PACKAGE" value="com.company" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="eclipse.project.dir" value="$USER_HOME$/Desktop/8-商城源码/wemall20170815/wemall" />
+    <property name="KEYMAP" value="find" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="JUnitSupport.hideIgnoredTests" value="false" />
+    <property name="JUnitSupport.sortTestsByDuration" value="false" />
+    <property name="JUnitSupport.sortTestsAlphabetically" value="false" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.16570008" />
+    <property name="JUnit.Splitter.Proportion" value="0.08360927" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="" />
+    <property name="LiveContextsPanel[0]" value="0.16992353" />
+    <property name="SpringBeansModulesPanel[0]" value="0.16570008" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.623987" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.8703704" />
+  </component>
+</application>
